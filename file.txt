@@ -3,3 +3,9 @@
 456
 
 789
+add line >> file.txt
+cat file.txt
+
+
+q
+
