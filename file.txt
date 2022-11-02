@@ -1,7 +1,7 @@
 123
 66666666
 456
-
+tttttttttttttttttttttttttttttttttttttt
 789
 add line >> file.txt
 cat file.txt
